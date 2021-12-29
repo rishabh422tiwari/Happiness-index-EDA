@@ -1,1 +1,1 @@
-# sharing-github
+Minor Project
